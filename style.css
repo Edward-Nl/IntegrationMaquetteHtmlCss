@@ -1,1 +1,81 @@
+body{
+	font-family: Roboto;
+}
 
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo_header{
+	width: 350px;
+	height: 110px;
+}
+
+.nav_header{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+
+}
+
+.list_header{
+	margin-left: 40px;
+}
+
+footer{
+	background-color: #5b359d;
+	color: white;
+	height: 280px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.agence{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.logo_footer{
+
+}
+
+.ctn_list_footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.tit_list_foot{
+	color: #adaed8;
+}
+
+.list_adresse{
+	list-style: none;
+}
+
+.banniere{
+	background-image: url(backgroung_image.jpg);
+	background-position: center;
+	height: 600px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#logo_ban{
+	width: 280px;
+	height: 80px;
+
+}
+
+#text_ban{
+	color: white;
+	font-size: 35px;
+}
