@@ -137,3 +137,18 @@ footer{
 	color: #bdaed8;
 	font-weight: normal;
 }
+
+
+   /* Animation */
+
+.list_header:hover{
+	color: #9683EC;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.boite_vignette:hover{
+	border: 2px #afafaf solid;
+	border-radius: 5px;
+	box-shadow: 4px 4px 2px #afafaf;
+}
