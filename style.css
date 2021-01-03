@@ -152,3 +152,15 @@ footer{
 	border-radius: 5px;
 	box-shadow: 4px 4px 2px #afafaf;
 }
+
+.fa-twitter:hover{
+	color: #00acee;
+}
+
+.fa-facebook-f:hover{
+	color: #4267B2;
+}
+
+.fa-instagram:hover{
+	color: #5851db;
+}
